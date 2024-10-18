@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PROJETO_BD_EMPRESA.props" />
+</Project>
